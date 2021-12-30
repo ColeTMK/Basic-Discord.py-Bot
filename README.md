@@ -1,5 +1,5 @@
 # Basic-Discord.py-Bot
-Today, I will show you how to get a basic Discord.py bot up and running for your server(s)! Since discord.py is no longer being maintained, we will be using Nextcord today. P.S. I am using VSCode, it's free and easy to use.
+Today, I will show you how to get a basic Discord.py bot up and running for your server(s)! Since discord.py is no longer being maintained, we will be using Nextcord today. P.S. I am using [VSCode](https://code.visualstudio.com/), it's free and easy to use.
 
 ## 1.
 Click on the Green Code button on this repository, then click on `Download Zip`. Unzip the folder, then open the folder with VSCode.
