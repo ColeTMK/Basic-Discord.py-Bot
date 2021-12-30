@@ -15,3 +15,7 @@ If you want to have a different prefix than `!`, you can change it where it says
 
 ## 5.
 Now you can run your bot! Open up a new terminal and type `python bot.py`! You should then see `Discord Bot is now online!`
+
+Nextcord API: https://nextcord.readthedocs.io/en/latest/
+Nextcord GitHub Repo: https://github.com/nextcord/nextcord
+VSCode: https://code.visualstudio.com/
