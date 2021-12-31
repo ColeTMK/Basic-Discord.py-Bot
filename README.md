@@ -14,7 +14,7 @@ Go to `bot.py` and change where it says `token here` to your bot's token. Keep t
 If you want to have a different prefix than `!`, you can change it where it says `command_prefix="!"` to anything like `command_prefix="?"` or `command_prefix="."`, etc.
 
 ## 5.
-Now you can run your bot! Open up a new terminal and type `python bot.py`! You should then see `Discord Bot is now online!`
+Now you can run your bot! Open up a new terminal and type `python bot.py`! You should then see `Discord Bot is now online!` pop up in the terminal in a few moments.
 
 Nextcord API: https://nextcord.readthedocs.io/en/latest/
 Nextcord GitHub Repo: https://github.com/nextcord/nextcord
