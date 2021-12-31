@@ -5,7 +5,7 @@ from nextcord.ext import commands
 """Creates a bot and configures it to have a command prefix"""
 bot = nextcord.Bot(command_prefix="!")
 
-"""When the bot goes online, it will say it's online."""
+"""When the bot goes online, it will say it's online in the terminal"""
 @bot.event
 async def on_ready():
   print("Discord Bot is now online!")
