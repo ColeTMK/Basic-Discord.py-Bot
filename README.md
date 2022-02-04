@@ -5,7 +5,7 @@ Today, I will show you how to get a basic Discord.py bot up and running for your
 Click on the Green Code button on this repository, then click on `Download Zip`. Unzip the folder, then open the folder with VSCode.
 
 ## 2.
-While you have the folder open in VSCode, open up a terminal by clicking on `New Terminal` on the top. Then type `pip install nextcord`. This will install the most up-to-date version of nextcord. If you plan to have a music bot or make your bot join a vc, you must also do `pip install nextcord[voice]`.
+While you have the folder open in VSCode, open up a terminal by clicking on `New Terminal` on the top. Then type `pip install nextcord` *Make sure python3 is installed, to install this: type `python3` in a terminal/console*. This will install the most up-to-date version of nextcord. If you plan to have a music bot or make your bot join a vc, you must also do `pip install nextcord[voice]`.
 
 ## 3.
 Go to `bot.py` and change where it says `token here` to your bot's token. Keep the parenthesis where they are.
