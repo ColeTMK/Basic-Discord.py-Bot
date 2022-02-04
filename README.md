@@ -16,6 +16,9 @@ If you want to have a different prefix than `!`, you can change it where it says
 ## 5.
 Now you can run your bot! Open up a new terminal and type `python bot.py`! You should then see `Discord Bot is now online!` pop up in the terminal in a few moments.
 
+## 6.
+Now you can add your own commands or events to your liking! If you have and questions and/or issues, feel free to open an issue.
+
 Nextcord API: https://nextcord.readthedocs.io/en/latest/
 Nextcord GitHub Repo: https://github.com/nextcord/nextcord
 VSCode: https://code.visualstudio.com/
